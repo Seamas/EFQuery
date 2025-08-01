@@ -4,6 +4,13 @@
         <TargetFramework>netstandard2.0</TargetFramework>
         <LangVersion>latest</LangVersion>
         <Nullable>enable</Nullable>
+        
+        <PackageId>Seamas.EFQuery</PackageId>
+        <Version>1.0.0</Version>
+        <Authors>Seamas Wang</Authors>
+        <Description>Create EF dynamic query</Description>
+        <RepositoryUrl>https://github.com/Seamas/EFQuery</RepositoryUrl>
+        <RepositoryType>git</RepositoryType>
     </PropertyGroup>
 
 </Project>
