@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EFQuery", "EFQuery\EFQuery.csproj", "{5C79FDC7-39D3-4002-B561-2BBD074E9DA3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EFQuery.Test", "EFQuery.Test\EFQuery.Test.csproj", "{07B2B7FB-56FE-4C33-B560-677E27ED18DA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5C79FDC7-39D3-4002-B561-2BBD074E9DA3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5C79FDC7-39D3-4002-B561-2BBD074E9DA3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5C79FDC7-39D3-4002-B561-2BBD074E9DA3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5C79FDC7-39D3-4002-B561-2BBD074E9DA3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{07B2B7FB-56FE-4C33-B560-677E27ED18DA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{07B2B7FB-56FE-4C33-B560-677E27ED18DA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{07B2B7FB-56FE-4C33-B560-677E27ED18DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{07B2B7FB-56FE-4C33-B560-677E27ED18DA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
